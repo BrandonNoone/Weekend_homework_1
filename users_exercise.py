@@ -58,6 +58,7 @@ users = {
 print(users["Jonathan"]["twitter"])
 
 # 2. Get Erik's hometown
+print(users["Erik"]["home_town"])
 
 # 3. Get the list of Erik's lottery numbers
 
