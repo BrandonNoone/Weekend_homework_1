@@ -84,6 +84,8 @@ E_lotto_numbers.append(7)
 print(E_lotto_numbers)
 
 # 8. Change Erik's hometown to Edinburgh
+Eriks_hometown = users["Erik"][1]= "Edinburgh"
+print(Eriks_hometown)
 
 # 9. Add a pet dog to Erik called "fluffy"
 
