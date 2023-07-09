@@ -78,6 +78,10 @@ for even_numbers in even_lottery_numbers:
 
 
 # 7. Erik is one lottery number short! Add the number `7` to be included in his lottery numbers
+E_lotto_numbers = (users["Erik"]["lottery_numbers"])
+E_lotto_numbers.append(7)
+
+print(E_lotto_numbers)
 
 # 8. Change Erik's hometown to Edinburgh
 
